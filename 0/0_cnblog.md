@@ -1,12 +1,10 @@
-# Django-personal-note-course
-Django 自学笔记兼学习教程
+Django 自学笔记兼学习教程 总目录
+
+> 本篇博客只有目录，正文内容在目录章节链接的博客里
+> 除目录本身外，没有链接的章节，说明内容还没开始编辑
 > 本项目笔记仍在不断创作中，还有些内容会根据自身所学不断更新完善
-
 > 本项目主要为markdwon文档，用于记录我学习使用django的经历，梳理自身所学，同时也可以供其他学习者作为教程参考。
-
-> 未来将发布到我的各种博客等等。
-
-> 目前也已发布到我的csdn专栏：[Django 自学笔记兼学习教程](https://blog.csdn.net/python1639er/article/details/105008951)
+> 作者自我介绍：[b站小UP主](https://space.bilibili.com/149259132)，[时常直播编程+红警三](https://live.bilibili.com/13337214)，[python1对1辅导老师](https://www.bilibili.com/read/cv8288962)。
 
 
 ## 笔记（教程）总目录：
@@ -59,7 +57,8 @@ Django 自学笔记兼学习教程
 - B2 进阶命令
 - B3 各种问题（Bug）
 
-## 项目布局细节
+## 项目布局细节、
+- 项目首发于我的github: [Django-personal-note-course](https://github.com/BigShuang/Django-personal-note-course)
 - 项目会为每一章建立一个子文件夹。
 - 图片上传与在博客中显示暂时还没有个明确的解决结论。
 先在项目中包含图片，然后csdn中一个个上传凑合着用
