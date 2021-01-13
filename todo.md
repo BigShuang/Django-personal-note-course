@@ -26,3 +26,7 @@ S1 四五节
 
 #### Current:
 - 模板部分
+
+
+#### refer
+[利用Metaweblog技术的API接口同步到多个博客网站（详细）](https://blog.csdn.net/zp357252539/article/details/72855849)
