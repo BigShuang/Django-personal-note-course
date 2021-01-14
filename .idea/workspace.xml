@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67107369-4f6a-4dd6-b296-b90a199c2919" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/info/cnblogs/blog/start.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/info/cnblogs/catalog/end.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/info/cnblogs/catalog/start.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contents/0/0_cnblog.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contents/1/1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contents/1/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contents/3/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contents/3/3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contents/3/4.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/0/1.md" afterPath="$PROJECT_DIR$/contents/0/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/0/2.md" afterPath="$PROJECT_DIR$/contents/0/2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/2/1.md" afterPath="$PROJECT_DIR$/contents/2/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/2/2.md" afterPath="$PROJECT_DIR$/contents/2/2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/2/3.md" afterPath="$PROJECT_DIR$/contents/2/3.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/3/1.md" afterPath="$PROJECT_DIR$/contents/3/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/4/1.md" afterPath="$PROJECT_DIR$/contents/4/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/4/2.md" afterPath="$PROJECT_DIR$/contents/4/2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/4/3.md" afterPath="$PROJECT_DIR$/contents/4/3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/5/1.md" afterPath="$PROJECT_DIR$/contents/5/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/5/2.md" afterPath="$PROJECT_DIR$/contents/5/2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/5/3.md" afterPath="$PROJECT_DIR$/contents/5/3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/6/1.md" afterPath="$PROJECT_DIR$/contents/6/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/6/2.md" afterPath="$PROJECT_DIR$/contents/6/2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/6/3.md" afterPath="$PROJECT_DIR$/contents/6/3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/6/4.md" afterPath="$PROJECT_DIR$/contents/6/4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/7/1.md" afterPath="$PROJECT_DIR$/contents/7/1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/7/3.md" afterPath="$PROJECT_DIR$/contents/7/3.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/temp.md" afterPath="$PROJECT_DIR$/info/cnblogs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/info/cnblogs/blog/start.md" afterPath="$PROJECT_DIR$/info/cnblogs/blog/start.md" />
     </list>
     <ignored path="Django-personal-note-course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,12 +35,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/5/3.md">
+      <file leaf-file-name="1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contents/1/1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.5125">
+                <caret line="56" column="79" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -64,22 +48,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/6/1.md">
+      <file leaf-file-name="2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contents/1/2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="-0.1625">
+                <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contents/3/1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.24317913">
+                <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
                 <folding>
-                  <marker date="1610535294804" expanded="true" signature="327:472" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="548:664" placeholder="import ..." />
-                  <marker date="1610535294804" expanded="true" signature="685:964" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="1023:1328" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="1030:1104" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="1069:1096" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="1111:1320" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="1140:1312" placeholder="..." />
-                  <marker date="1610535294804" expanded="true" signature="1169:1301" placeholder="..." />
+                  <marker date="1610615862259" expanded="true" signature="1724:1775" placeholder="..." />
+                  <marker date="1610615862259" expanded="true" signature="2353:2486" placeholder="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -87,20 +77,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="3_1_01.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgs/3_1_01.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/6/2.md">
+        <entry file="file://$PROJECT_DIR$/contents/3/2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-                <folding>
-                  <marker date="1610535294823" expanded="true" signature="231:376" placeholder="..." />
-                  <marker date="1610535294823" expanded="true" signature="1947:2666" placeholder="..." />
-                  <marker date="1610535294823" expanded="true" signature="1954:1987" placeholder="..." />
-                  <marker date="1610535294823" expanded="true" signature="1994:2658" placeholder="..." />
-                  <marker date="1610535294823" expanded="true" signature="2119:2164" placeholder="..." />
-                  <marker date="1610535294823" expanded="true" signature="2544:2583" placeholder="..." />
-                </folding>
+                <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -108,16 +98,15 @@
         </entry>
       </file>
       <file leaf-file-name="3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/6/3.md">
+        <entry file="file://$PROJECT_DIR$/contents/3/3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <first_editor vertical-scroll-proportion="0.03084223">
+                <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
                 <folding>
-                  <marker date="1610535294791" expanded="true" signature="436:1042" placeholder="..." />
-                  <marker date="1610535294791" expanded="false" signature="1105:1157" placeholder="import ..." />
-                  <marker date="1610535294791" expanded="true" signature="1199:1471" placeholder="..." />
-                  <marker date="1610535294791" expanded="true" signature="1215:1471" placeholder="..." />
+                  <marker date="1610602704047" expanded="true" signature="471:631" placeholder="..." />
+                  <marker date="1610602704047" expanded="true" signature="496:528" placeholder="..." />
+                  <marker date="1610602704047" expanded="true" signature="563:631" placeholder="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -126,15 +115,30 @@
         </entry>
       </file>
       <file leaf-file-name="4.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/6/4.md">
+        <entry file="file://$PROJECT_DIR$/contents/3/4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.0">
                 <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
                 <folding>
-                  <marker date="1610535294786" expanded="true" signature="616:1311" placeholder="..." />
-                  <marker date="1610535294786" expanded="true" signature="716:972" placeholder="..." />
-                  <marker date="1610535294786" expanded="true" signature="994:1311" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="768:1232" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="775:852" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="814:844" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="859:1224" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="888:1216" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="918:1105" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="1139:1209" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="1814:1845" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="1891:1922" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2198:2716" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2205:2282" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2244:2274" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2289:2708" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2318:2700" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2348:2476" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2510:2693" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2564:2599" placeholder="..." />
+                  <marker date="1610602727787" expanded="true" signature="2647:2682" placeholder="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -143,93 +147,15 @@
         </entry>
       </file>
       <file leaf-file-name="1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/7/1.md">
+        <entry file="file://$PROJECT_DIR$/contents/2/1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <first_editor vertical-scroll-proportion="0.5243179">
+                <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="64" />
                 <folding>
-                  <marker date="1610535294738" expanded="true" signature="284:446" placeholder="import ..." />
-                  <marker date="1610535294738" expanded="true" signature="760:1069" placeholder="..." />
-                  <marker date="1610535294738" expanded="true" signature="767:841" placeholder="..." />
-                  <marker date="1610535294738" expanded="true" signature="806:833" placeholder="..." />
-                  <marker date="1610535294738" expanded="true" signature="848:1061" placeholder="..." />
-                  <marker date="1610535294738" expanded="true" signature="879:1053" placeholder="..." />
-                  <marker date="1610535294738" expanded="true" signature="908:1042" placeholder="..." />
-                  <marker date="1610535294738" expanded="true" signature="1702:1810" placeholder="..." />
+                  <marker date="1610535294772" expanded="true" signature="1492:1545" placeholder="import ..." />
+                  <marker date="1610535294772" expanded="true" signature="1701:1734" placeholder="..." />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/7/3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.28782287">
-                <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-                <folding>
-                  <marker date="1610535294796" expanded="true" signature="248:406" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="514:663" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="542:587" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="617:663" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="1814:2112" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="1879:2112" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="2429:2481" placeholder="import ..." />
-                  <marker date="1610535294796" expanded="true" signature="2522:3217" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="2622:2878" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="2900:3217" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="3259:3465" placeholder="import ..." />
-                  <marker date="1610535294796" expanded="true" signature="3504:4553" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="3674:4553" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="4616:4710" placeholder="import ..." />
-                  <marker date="1610535294796" expanded="true" signature="5615:5696" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="5807:6115" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="5816:5958" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                  <marker date="1610535294796" expanded="true" signature="6336:6473" placeholder="..." />
-                  <marker date="1610535294796" expanded="true" signature="6626:6752" placeholder="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/0/1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/0/2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.04797048">
-                <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/info/cnblogs/blog/start.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.04797048">
-                <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -244,11 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0/1.md" />
-        <option value="$PROJECT_DIR$/0/2.md" />
-        <option value="$PROJECT_DIR$/6/1.md" />
-        <option value="$PROJECT_DIR$/6/2.md" />
-        <option value="$PROJECT_DIR$/6/3.md" />
         <option value="$PROJECT_DIR$/6/4.md" />
         <option value="$PROJECT_DIR$/small.py" />
         <option value="$PROJECT_DIR$/7/1.md" />
@@ -281,7 +202,6 @@
         <option value="$PROJECT_DIR$/contents/2/1.md" />
         <option value="$PROJECT_DIR$/contents/2/2.md" />
         <option value="$PROJECT_DIR$/contents/2/3.md" />
-        <option value="$PROJECT_DIR$/contents/3/1.md" />
         <option value="$PROJECT_DIR$/contents/4/1.md" />
         <option value="$PROJECT_DIR$/contents/4/2.md" />
         <option value="$PROJECT_DIR$/contents/4/3.md" />
@@ -295,6 +215,12 @@
         <option value="$PROJECT_DIR$/contents/7/1.md" />
         <option value="$PROJECT_DIR$/contents/7/3.md" />
         <option value="$PROJECT_DIR$/info/cnblogs/blog/start.md" />
+        <option value="$PROJECT_DIR$/contents/1/1.md" />
+        <option value="$PROJECT_DIR$/contents/1/2.md" />
+        <option value="$PROJECT_DIR$/contents/3/2.md" />
+        <option value="$PROJECT_DIR$/contents/3/3.md" />
+        <option value="$PROJECT_DIR$/contents/3/4.md" />
+        <option value="$PROJECT_DIR$/contents/3/1.md" />
       </list>
     </option>
   </component>
@@ -334,6 +260,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -352,78 +280,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnblogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnblogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django-personal-note-course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -746,18 +604,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1952535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19848976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5021575" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4187568" sideWeight="0.4978425" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37840787" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -778,46 +636,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contents/6/3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="14" column="12" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contents/0/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contents/0/2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -977,17 +795,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/3_1_01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.6915777">
             <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -998,7 +810,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.77105576">
             <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="125" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1009,7 +820,6 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="1.3570582">
             <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1020,7 +830,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.03084223">
             <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1030,7 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.9428573">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,21 +847,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.12336892">
             <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contents/2/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294772" expanded="true" signature="1492:1545" placeholder="import ..." />
-              <marker date="1610535294772" expanded="true" signature="1701:1734" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1064,10 +857,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294818" expanded="true" signature="1218:1262" placeholder="..." />
-              <marker date="1610535294818" expanded="false" signature="2596:2647" placeholder="import ..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1078,24 +867,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.28782287">
             <caret line="4" column="8" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
-            <folding>
-              <marker date="1610535294748" expanded="true" signature="1270:1303" placeholder="..." />
-              <marker date="1610535294748" expanded="true" signature="2686:2772" placeholder="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contents/3/1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294761" expanded="true" signature="1724:1775" placeholder="..." />
-              <marker date="1610535294761" expanded="true" signature="2246:2379" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1106,10 +877,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294813" expanded="true" signature="838:1629" placeholder="..." />
-              <marker date="1610535294813" expanded="true" signature="1461:1629" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1120,9 +887,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294800" expanded="true" signature="749:947" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1133,13 +897,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294777" expanded="true" signature="674:1014" placeholder="..." />
-              <marker date="1610535294777" expanded="true" signature="846:1014" placeholder="..." />
-              <marker date="1610535294777" expanded="true" signature="1592:1651" placeholder="..." />
-              <marker date="1610535294777" expanded="true" signature="1704:1874" placeholder="..." />
-              <marker date="1610535294777" expanded="true" signature="2701:2850" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1150,10 +907,6 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294743" expanded="true" signature="920:1104" placeholder="..." />
-              <marker date="1610535294743" expanded="true" signature="920:1136" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1164,9 +917,6 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294782" expanded="true" signature="300:516" placeholder="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1188,17 +938,7 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294804" expanded="true" signature="327:472" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="548:664" placeholder="import ..." />
-              <marker date="1610535294804" expanded="true" signature="685:964" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="1023:1328" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="1030:1104" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="1069:1096" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="1111:1320" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="1140:1312" placeholder="..." />
-              <marker date="1610535294804" expanded="true" signature="1169:1301" placeholder="..." />
-            </folding>
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1209,14 +949,7 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294823" expanded="true" signature="231:376" placeholder="..." />
-              <marker date="1610535294823" expanded="true" signature="1947:2666" placeholder="..." />
-              <marker date="1610535294823" expanded="true" signature="1954:1987" placeholder="..." />
-              <marker date="1610535294823" expanded="true" signature="1994:2658" placeholder="..." />
-              <marker date="1610535294823" expanded="true" signature="2119:2164" placeholder="..." />
-              <marker date="1610535294823" expanded="true" signature="2544:2583" placeholder="..." />
-            </folding>
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1258,16 +991,7 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1610535294738" expanded="true" signature="284:446" placeholder="import ..." />
-              <marker date="1610535294738" expanded="true" signature="760:1069" placeholder="..." />
-              <marker date="1610535294738" expanded="true" signature="767:841" placeholder="..." />
-              <marker date="1610535294738" expanded="true" signature="806:833" placeholder="..." />
-              <marker date="1610535294738" expanded="true" signature="848:1061" placeholder="..." />
-              <marker date="1610535294738" expanded="true" signature="879:1053" placeholder="..." />
-              <marker date="1610535294738" expanded="true" signature="908:1042" placeholder="..." />
-              <marker date="1610535294738" expanded="true" signature="1702:1810" placeholder="..." />
-            </folding>
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1276,7 +1000,7 @@
     <entry file="file://$PROJECT_DIR$/contents/7/3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.28782287">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             <folding>
               <marker date="1610535294796" expanded="true" signature="248:406" placeholder="..." />
@@ -1315,23 +1039,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contents/0/2.md">
+    <entry file="file://$PROJECT_DIR$/info/cnblogs/blog/start.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.04797048">
-            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <first_editor vertical-scroll-proportion="0.12336892">
+            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/info/cnblogs/blog/start.md">
+    <entry file="file://$PROJECT_DIR$/contents/0/2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.04797048">
-            <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <first_editor vertical-scroll-proportion="0.5682657">
+            <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/1/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.5125">
+            <caret line="56" column="79" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/1/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="-0.1625">
+            <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/3/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/3/3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.03084223">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <folding>
+              <marker date="1610602704047" expanded="true" signature="471:631" placeholder="..." />
+              <marker date="1610602704047" expanded="true" signature="496:528" placeholder="..." />
+              <marker date="1610602704047" expanded="true" signature="563:631" placeholder="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/3/4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <folding>
+              <marker date="1610602727787" expanded="true" signature="768:1232" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="775:852" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="814:844" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="859:1224" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="888:1216" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="918:1105" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="1139:1209" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="1814:1845" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="1891:1922" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2198:2716" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2205:2282" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2244:2274" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2289:2708" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2318:2700" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2348:2476" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2510:2693" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2564:2599" placeholder="..." />
+              <marker date="1610602727787" expanded="true" signature="2647:2682" placeholder="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/3_1_01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/2/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.5243179">
+            <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="64" />
+            <folding>
+              <marker date="1610535294772" expanded="true" signature="1492:1545" placeholder="import ..." />
+              <marker date="1610535294772" expanded="true" signature="1701:1734" placeholder="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents/3/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.24317913">
+            <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+            <folding>
+              <marker date="1610615862259" expanded="true" signature="1724:1775" placeholder="..." />
+              <marker date="1610615862259" expanded="true" signature="2353:2486" placeholder="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
