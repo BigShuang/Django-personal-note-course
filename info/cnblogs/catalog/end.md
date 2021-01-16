@@ -1,4 +1,4 @@
-## 项目布局细节、
+### 项目布局细节
 - 项目首发于我的github: [Django-personal-note-course](https://github.com/BigShuang/Django-personal-note-course)
 - 项目会为每一章建立一个子文件夹。
 - 图片上传与在博客中显示暂时还没有个明确的解决结论。
