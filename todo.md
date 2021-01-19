@@ -14,18 +14,15 @@ S1 四五节
 - CBV 拓展设置，post，
 - CBV form_valid
 - 模板部分知识需要补充完善，视图方法，以及往模板中传入参数
+- models 的增删查改
 
 需要讲：
-
 ~~- forms进阶设置， 设置属性~~
 - 测试下forms的改动，关于clean方法的返回值（直播之外测试）
 
-- models 的增删查改
 
 - url 跳转 重定向 redirect
 
-#### Current:
-- 模板部分
 
 
 #### refer

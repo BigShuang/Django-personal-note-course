@@ -1,12 +1,15 @@
 {
+  "common": {
+    "project": "F:\\UP PIG\\blog\\Django-personal-note-course",
+    "contents": "contents",
+    "imgs": "imgs",
+    "project-name": "Django-personal-note-course",
+    "book-name": "Django笔记&教程"
+  },
   "cnblogs":{
     "url": "https://www.cnblogs.com",
     "api_url": "http://rpc.cnblogs.com/metaweblog/%s",
     "view_url": "%s/%s/p/%.html",
-    "edit": "",
-
-    "project": "F:\\UP PIG\\blog\\Django-personal-note-course",
-    "contents": "contents",
-    "project-name": "Django-personal-note-course"
+    "edit": ""
   }
 }
